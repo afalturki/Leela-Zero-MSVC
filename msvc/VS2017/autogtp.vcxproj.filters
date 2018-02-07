@@ -68,6 +68,9 @@
     <ClInclude Include="..\..\autogtp\Order.h">
       <Filter>Generated Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\autogtp\Console.h">
+      <Filter>Generated Files</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\autogtp\Result.h">
       <Filter>Generated Files</Filter>
     </ClInclude>
