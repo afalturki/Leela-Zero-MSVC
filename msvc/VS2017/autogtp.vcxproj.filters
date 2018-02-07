@@ -48,6 +48,9 @@
     <ClCompile Include="..\..\autogtp\Game.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\autogtp\Order.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\autogtp\Job.cpp">
       <Filter>Generated Files</Filter>
     </ClCompile>
